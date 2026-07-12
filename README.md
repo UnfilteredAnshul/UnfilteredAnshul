@@ -125,24 +125,6 @@ I am continuously learning new technologies, improving my development workflow, 
 
 <br>
 
-
-A continuously evolving developer profile designed to document my technologies, development focus, and engineering growth.
-
-| Engineering Area | Implementation                                                          |
-| :--------------- | :---------------------------------------------------------------------- |
-| **Stack**        | Markdown • GitHub • SVG Widgets                                         |
-| **Focus**        | Developer Branding                                                      |
-| **Design**       | Structured engineering profile                                          |
-| **Automation**   | Dynamic GitHub statistics                                               |
-| **Impact**       | Centralized developer presence                                          |
-| **Repository**   | [View Repository](https://github.com/UnfilteredAnshul/UnfilteredAnshul) |
-
-The profile acts as a centralized engineering presence that documents my current development stack, technical interests, and learning direction.
-
-It evolves alongside my development skills and future software projects.
-
-</details>
-
 ---
 
 ## Development Focus
