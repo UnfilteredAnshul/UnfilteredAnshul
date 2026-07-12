@@ -125,10 +125,6 @@ I am continuously learning new technologies, improving my development workflow, 
 
 ---
 
-## Featured Projects
-
-<details>
-<summary><b>CarServ</b></summary>
 
 <br>
 
