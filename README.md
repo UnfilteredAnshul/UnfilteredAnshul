@@ -219,7 +219,7 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UnfilteredAnshul&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=UnfilteredAnshul&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
