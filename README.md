@@ -2,17 +2,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=750\&lines=Building+Modern+Web+Experiences;React+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;Responsive+UI+%E2%80%A2+Animations+%E2%80%A2+Full+Stack;Learn+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;React+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;Responsive+UI+%E2%80%A2+Animations+%E2%80%A2+Full+Stack;Learn+%E2%86%92+Code+%E2%86%92+Debug+%E2%86%92+Repeat)](https://git.io/typing-svg)
 
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-6D28D9?style=flat-square)
 ![Frontend Engineering](https://img.shields.io/badge/Frontend-Engineering-7C3AED?style=flat-square)
 ![Web Development](https://img.shields.io/badge/Web-Development-4F46E5?style=flat-square)
 ![UI UX](https://img.shields.io/badge/UI%20%2F%20UX-Engineering-6366F1?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge\&logo=vercel\&logoColor=white)](https://buildwithanshul.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/unfiltred-anshul-rajpal)
-[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/UnfilteredAnshul)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithanshul.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unfiltred-anshul-rajpal)
+[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UnfilteredAnshul)
 
 
 </div>
@@ -48,7 +48,7 @@ I am continuously learning new technologies, improving my development workflow, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,kotlin,html,css\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,kotlin,html,css&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -56,13 +56,13 @@ I am continuously learning new technologies, improving my development workflow, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React%20Native-6D28D9?style=flat-square\&logo=react\&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-6D28D9?style=flat-square&logo=react&logoColor=white)
 ![Responsive UI](https://img.shields.io/badge/Responsive-UI-7C3AED?style=flat-square)
 ![Animations](https://img.shields.io/badge/Web-Animations-4F46E5?style=flat-square)
 ![Modern Web Design](https://img.shields.io/badge/Modern-Web%20Design-6366F1?style=flat-square)
@@ -73,7 +73,7 @@ I am continuously learning new technologies, improving my development workflow, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -81,11 +81,11 @@ I am continuously learning new technologies, improving my development workflow, 
 
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-4F46E5?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge\&logo=powerbi\&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-4338CA?style=for-the-badge\&logo=vitest\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-4F46E5?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-4338CA?style=for-the-badge&logo=vitest&logoColor=white)
 
 </div>
 
@@ -93,15 +93,15 @@ I am continuously learning new technologies, improving my development workflow, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,npm\&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,npm&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <div align="center">
 
-![Render](https://img.shields.io/badge/Render-6D28D9?style=flat-square\&logo=render\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-7C3AED?style=flat-square\&logo=canva\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-4F46E5?style=flat-square\&logo=markdown\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-6D28D9?style=flat-square&logo=render&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-7C3AED?style=flat-square&logo=canva&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-4F46E5?style=flat-square&logo=markdown&logoColor=white)
 
 </div>
 
@@ -171,31 +171,31 @@ Focused on building modern full-stack web applications and improving my understa
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge\&logo=react\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=for-the-badge\&logo=javascript\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4338CA?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4338CA?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-4F46E5?style=for-the-badge\&logo=supabase\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-4338CA?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-4F46E5?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-4338CA?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Data & Analytics
 
-![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-4F46E5?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-4338CA?style=for-the-badge\&logo=powerbi\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4F46E5?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-4338CA?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### Development & Deployment
 
-![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-4F46E5?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-7C3AED?style=for-the-badge\&logo=render\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-4338CA?style=for-the-badge\&logo=npm\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-7C3AED?style=for-the-badge&logo=render&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-4338CA?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
@@ -219,7 +219,7 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UnfilteredAnshul\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=8\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=UnfilteredAnshul&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -229,7 +229,7 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
-[![Anshul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UnfilteredAnshul\&bg_color=0D1117\&color=8B5CF6\&line=6D28D9\&point=FFFFFF\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anshul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UnfilteredAnshul&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -284,15 +284,15 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT%20ME-6D28D9?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-4F46E5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/unfiltred-anshul-rajpal)
-[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/UnfilteredAnshul)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW%20MY%20WORK-4338CA?style=for-the-badge\&logo=vercel\&logoColor=white)](https://buildwithanshul.vercel.app)
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT%20ME-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unfiltred-anshul-rajpal)
+[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UnfilteredAnshul)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW%20MY%20WORK-4338CA?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithanshul.vercel.app)
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-6D28D9?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/shutup.krish)
-[![X](https://img.shields.io/badge/X-FOLLOW-312E81?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/shutup_anshul)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-6D28D9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shutup.krish)
+[![X](https://img.shields.io/badge/X-FOLLOW-312E81?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shutup_anshul)
 
 </div>
 
