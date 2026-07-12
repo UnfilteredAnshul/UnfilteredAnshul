@@ -122,10 +122,8 @@ I am continuously learning new technologies, improving my development workflow, 
 
 ---
 
-
 <br>
 
----
 
 ## Development Focus
 
