@@ -122,9 +122,6 @@ I am continuously learning new technologies, improving my development workflow, 
 
 ---
 
-<br>
-
-
 ## Development Focus
 
 ### Full Stack Web Development
@@ -219,7 +216,7 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=UnfilteredAnshul&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=UnfilteredAnshul&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7&title=-Followers,-Stars,-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
