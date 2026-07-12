@@ -125,29 +125,6 @@ I am continuously learning new technologies, improving my development workflow, 
 
 <br>
 
-A JavaScript-based web development project focused on building a modern application experience.
-
-| Engineering Area | Implementation                                                 |
-| :--------------- | :------------------------------------------------------------- |
-| **Stack**        | JavaScript • Modern Web Technologies                           |
-| **Focus**        | Web Application Development                                    |
-| **Frontend**     | Interactive browser-based experience                           |
-| **Design**       | Modern web interface                                           |
-| **Engineering**  | Application-focused development                                |
-| **Repository**   | [View Repository](https://github.com/UnfilteredAnshul/carserv) |
-
-CarServ represents my practical approach to web development and application engineering.
-
-The project reflects my interest in creating modern web experiences while continuously improving application structure, frontend development, and user-focused design.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>GitHub Profile Engineering</b></summary>
-
-<br>
 
 A continuously evolving developer profile designed to document my technologies, development focus, and engineering growth.
 
