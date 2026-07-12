@@ -14,9 +14,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/UnfilteredAnshul)
 
-![Profile Views](https://komarev.com/ghpvc/?username=UnfilteredAnshul\&label=PROFILE+VIEWS\&color=6D28D9\&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/UnfilteredAnshul?label=FOLLOWERS\&style=flat-square\&color=7C3AED)](https://github.com/UnfilteredAnshul?tab=followers)
-[![Stars](https://img.shields.io/github/stars/UnfilteredAnshul?affiliations=OWNER\&label=TOTAL%20STARS\&style=flat-square\&color=4F46E5)](https://github.com/UnfilteredAnshul?tab=repositories)
 
 </div>
 
