@@ -236,7 +236,7 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
-[![Contribution Heatmap](https://raw.githubusercontent.com/UnfilteredAnshul/UnfilteredAnshul/output/contrib-heatmap.svg)](https://github.com/UnfilteredAnshul)
+[![Contribution Heatmap](https://cdn.jsdelivr.net/gh/UnfilteredAnshul/UnfilteredAnshul@output/contrib-heatmap.svg)](https://github.com/UnfilteredAnshul)
 
 </div>
 
