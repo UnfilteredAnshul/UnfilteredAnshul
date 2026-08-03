@@ -24,13 +24,13 @@ jobs:
       - name: Fetch contributions
         run: python scripts/fetch_contributions.py UnfilteredAnshul
 
-      - name: Render heatmap PNG
+      - name: Render heatmap animation
         run: python scripts/render_heatmap_svg.py
 
       - name: Stage output
         run: |
           mkdir -p dist
-          cp contrib-heatmap.png dist/
+          cp contrib-heatmap.gif dist/
 
       - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
