@@ -17,9 +17,6 @@
 
 </div>
 
----
-
-## Contribution Snake
 
 <div align="center">
 
