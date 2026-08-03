@@ -236,12 +236,7 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UnfilteredAnshul/UnfilteredAnshul/output/github-contribution-grid-snake-dark.svg">
-
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnfilteredAnshul/UnfilteredAnshul/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/UnfilteredAnshul/UnfilteredAnshul/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/UnfilteredAnshul/UnfilteredAnshul@output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
