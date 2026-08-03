@@ -1,4 +1,4 @@
-name: Generate Heatmap
+name: Generate Snake
 
 on:
   schedule:
@@ -12,28 +12,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - uses: Platane/snk@v3
         with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4 pillow
-
-      - name: Fetch contributions
-        run: python scripts/fetch_contributions.py UnfilteredAnshul
-
-      - name: Render heatmap animation
-        run: python scripts/render_heatmap_svg.py
-
-      - name: Stage output
-        run: |
-          mkdir -p dist
-          cp contrib-heatmap.gif dist/
-
-      - name: Publish to output branch
-        uses: peaceiris/actions-gh-pages@v3
+          github_user_name: UnfilteredAnshul
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
