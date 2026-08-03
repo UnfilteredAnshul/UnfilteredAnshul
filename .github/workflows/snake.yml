@@ -19,18 +19,18 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 pillow
 
       - name: Fetch contributions
         run: python scripts/fetch_contributions.py UnfilteredAnshul
 
-      - name: Render heatmap SVG
+      - name: Render heatmap PNG
         run: python scripts/render_heatmap_svg.py
 
       - name: Stage output
         run: |
           mkdir -p dist
-          cp contrib-heatmap.svg dist/
+          cp contrib-heatmap.png dist/
 
       - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
