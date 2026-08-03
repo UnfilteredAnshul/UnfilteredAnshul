@@ -19,6 +19,16 @@
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/UnfilteredAnshul/UnfilteredAnshul@output/github-contribution-grid-snake-dark.svg">
+
+</div>
+
+---
+
 ## About
 
 Hi, I'm **Anshul Rajpal** — a Full Stack Developer passionate about building modern web experiences.
@@ -227,16 +237,6 @@ Focused on building modern full-stack web applications and improving my understa
 <div align="center">
 
 [![Anshul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UnfilteredAnshul&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/UnfilteredAnshul/UnfilteredAnshul@output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
