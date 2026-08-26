@@ -9,6 +9,7 @@
 ![Web Development](https://img.shields.io/badge/Web-Development-4F46E5?style=flat-square)
 ![UI UX](https://img.shields.io/badge/UI%20%2F%20UX-Engineering-6366F1?style=flat-square)
 
+[![GTA 6 REQUIREMENTS CHECKER](https://img.shields.io/badge/GTA%206%20REQUIREMENTS%20CHECKER-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://gta-6-requirements.vercel.app)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithanshul.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unfiltred-anshul-rajpal)
 [![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
@@ -47,6 +48,14 @@ I am continuously learning new technologies, improving my development workflow, 
 * Open-source contributions
 * Developer collaborations
 
+
+---
+
+## Featured Project
+
+| Project | What it does |
+| :--- | :--- |
+| **[GTA 6 PC Requirements Checker](https://gta-6-requirements.vercel.app)** | Free browser tool that checks if your PC can run GTA VI against leaked system requirements. Live spec detection (CPU/GPU/RAM), benchmarks, leak coverage & buying guides. Built with vanilla JS, deployed on Vercel. |
 ---
 
 ## Tech Stack
