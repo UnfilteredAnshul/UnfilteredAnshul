@@ -56,8 +56,6 @@ I am continuously learning new technologies, improving my development workflow, 
 * Open-source contributions
 * Developer collaborations
 
-
----
 ---
 
 ## Tech Stack
