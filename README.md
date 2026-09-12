@@ -9,16 +9,17 @@
 ![Web Development](https://img.shields.io/badge/Web-Development-4F46E5?style=flat-square)
 ![UI UX](https://img.shields.io/badge/UI%20%2F%20UX-Engineering-6366F1?style=flat-square)
 
-**Things I made**
-
-[![GTA 6 REQUIREMENTS CHECKER](https://img.shields.io/badge/GTA%206%20REQUIREMENTS%20CHECKER-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://gta-6-requirements.vercel.app)
-[![LootLens](https://img.shields.io/badge/LOOTLENS-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://lootlens.antideploy.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithanshul.vercel.app)
+<h2 align="center">Connect me on my socials</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unfiltred-anshul-rajpal)
 [![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UnfilteredAnshul)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/unfiltered_anshul)
 
+<h2 align="center">Things I made</h2>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithanshul.vercel.app)
+[![GTA 6 REQUIREMENTS CHECKER](https://img.shields.io/badge/GTA%206%20REQUIREMENTS%20CHECKER-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://gta-6-requirements.vercel.app)
+[![LootLens](https://img.shields.io/badge/LOOTLENS-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://lootlens.antideploy.com)
 
 </div>
 
