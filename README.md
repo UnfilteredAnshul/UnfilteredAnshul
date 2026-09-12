@@ -58,12 +58,6 @@ I am continuously learning new technologies, improving my development workflow, 
 
 
 ---
-
-## Featured Project
-
-| Project | What it does |
-| :--- | :--- |
-| **[GTA 6 PC Requirements Checker](https://gta-6-requirements.vercel.app)** | Free browser tool that checks if your PC can run GTA VI against leaked system requirements. Live spec detection (CPU/GPU/RAM), benchmarks, leak coverage & buying guides. Built with vanilla JS, deployed on Vercel. |
 ---
 
 ## Tech Stack
