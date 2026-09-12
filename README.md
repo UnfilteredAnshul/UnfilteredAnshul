@@ -236,8 +236,6 @@ Focused on building modern full-stack web applications and improving my understa
 
 ---
 
----
-
 ## Current Focus
 
 ```yaml
