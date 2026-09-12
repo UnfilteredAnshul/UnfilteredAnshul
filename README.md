@@ -216,7 +216,13 @@ Focused on building modern full-stack web applications and improving my understa
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnfilteredAnshul&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UnfilteredAnshul&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+
+<br>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=UnfilteredAnshul&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
 
@@ -231,6 +237,14 @@ Focused on building modern full-stack web applications and improving my understa
 </div>
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+
+[![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnfilteredAnshul&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
