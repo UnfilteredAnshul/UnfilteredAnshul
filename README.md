@@ -29,7 +29,7 @@
 
 ## About
 
-Hi, I'm **Anshul Rajpal** — a Full Stack Developer passionate about building modern web experiences.
+Hi, I'm **Anshul Rajpal** ù a Full Stack Developer passionate about building modern web experiences.
 
 I work primarily with **React, JavaScript, Supabase, and modern web technologies**, focusing on developing responsive, interactive, and user-focused web applications.
 
@@ -142,7 +142,7 @@ I am continuously learning new technologies, improving my development workflow, 
 
 ### Full Stack Web Development
 
-`React` · `JavaScript` · `Node.js` · `Supabase` · `PostgreSQL`
+`React` ╖ `JavaScript` ╖ `Node.js` ╖ `Supabase` ╖ `PostgreSQL`
 
 Focused on building modern full-stack web applications and improving my understanding of complete application architecture.
 
@@ -297,6 +297,17 @@ Open To:
 
 ---
 
+## Tools I made
+
+<div align="center">
+
+[![GTA 6 REQUIREMENTS CHECKER](https://img.shields.io/badge/GTA%206%20REQUIREMENTS%20CHECKER-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://gta-6-requirements.vercel.app)
+[![LootLens](https://img.shields.io/badge/LOOTLENS-ff2d7b?style=for-the-badge&logo=vercel&logoColor=white)](https://lootlens.antideploy.com)
+
+</div>
+
+---
+
 <div align="center">
 
 ### *"Learn, Code, Debug, Repeat."*
@@ -304,3 +315,4 @@ Open To:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=130&section=footer"/>
+
