@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.unfiltered.anshul@gmail.com)
 [![Dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/unfiltered_anshul)
 [![GitHub](https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UnfilteredAnshul)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-6D28D9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shutup.krish)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-6D28D9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/build.with.anshul)
 [![X](https://img.shields.io/badge/X-312E81?style=for-the-badge&logo=x&logoColor=white)](https://x.com/buildwithanshul)
 
 <h2 align="center">Things I made</h2>
