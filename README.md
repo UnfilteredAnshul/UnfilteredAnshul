@@ -246,11 +246,11 @@ Focused on building modern full-stack web applications and improving my understa
 
 ---
 
-## Contribution Activity
+## GitHub Stats
 
 <div align="center">
 
-[![Anshul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UnfilteredAnshul&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnfilteredAnshul&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
