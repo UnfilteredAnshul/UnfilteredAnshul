@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/UnfilteredAnshul/UnfilteredAnshul@output/github-contribution-grid-snake-dark.svg">
+<img alt="Contribution city — my GitHub contributions as a neon isometric city" src="./assets/contribution-city.svg" width="100%">
 
 </div>
 
