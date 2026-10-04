@@ -29,7 +29,9 @@
 
 <div align="center">
 
+<a href="https://buildwithanshul.vercel.app/skyline">
 <img alt="Contribution skyline — my GitHub contributions animated as an isometric skyline morphing between a 2D heat map and a 3D city" src="./assets/skyline-preview.gif" width="100%">
+</a>
 
 <a href="https://buildwithanshul.vercel.app/skyline"><strong>view it live →</strong></a>
 
