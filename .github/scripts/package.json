@@ -1,0 +1,9 @@
+{
+  "name": "skyline-gif-capture",
+  "private": true,
+  "description": "Renders the animated skyline preview GIF for the profile README",
+  "dependencies": {
+    "puppeteer": "^24.0.0",
+    "puppeteer-core": "^24.0.0"
+  }
+}

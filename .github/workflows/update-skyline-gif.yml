@@ -1,0 +1,50 @@
+name: Update skyline GIF
+
+on:
+  schedule:
+    - cron: "23 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: .github/scripts/package-lock.json
+
+      - name: Cache Chromium
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: puppeteer-${{ runner.os }}-${{ hashFiles('.github/scripts/package-lock.json') }}
+
+      - name: Install dependencies
+        working-directory: .github/scripts
+        run: npm ci --no-audit --no-fund
+
+      - name: Ensure ffmpeg
+        run: which ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+
+      - name: Capture and encode GIF
+        run: node .github/scripts/capture-gif.js
+
+      - name: Commit if changed
+        run: |
+          git add assets/skyline-preview.gif
+          if git diff --cached --quiet; then
+            echo "GIF unchanged, skipping commit"
+            exit 0
+          fi
+          git config user.name "Anshul Rajpal"
+          git config user.email "anshul091103@gmail.com"
+          git commit -m "chore: refresh skyline GIF"
+          git push

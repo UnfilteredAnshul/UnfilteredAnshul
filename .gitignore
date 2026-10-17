@@ -4,3 +4,4 @@ contrib-heatmap.png
 data/
 preview_final.png
 scripts/__pycache__/
+.github/scripts/node_modules/
