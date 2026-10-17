@@ -65,6 +65,10 @@ async function captureCycle() {
     await page.goto(SITE_URL, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForSelector('button[aria-label="3D skyline"]', { timeout: 30000 });
 
+    // Card-only GIF: hide the fixed nav and footer so they never bleed into
+    // the frame below the card when it shrinks during the 2D morph.
+    await page.addStyleTag({ content: ".top-nav, footer { display: none !important; }" });
+
     await Promise.race([
       page.waitForResponse((r) => r.url().includes("/api/contributions"), { timeout: 20000 }).catch(() => null),
       sleep(5000),
@@ -81,13 +85,29 @@ async function captureCycle() {
     await sleep(800);
     await waitForStableStage(page);
 
+    // Fixed clip box around the card only (nav/footer excluded). The box is
+    // measured once at full 3D height and reused for every frame — the card
+    // only changes height during the morph, and every frame must share
+    // dimensions or the ffmpeg image2 sequence stops at the first size change.
+    const clip = await page.evaluate(() => {
+      const btn = document.querySelector('button[aria-label="3D skyline"]');
+      const sec = btn && btn.closest("section");
+      if (!sec) return null;
+      const b = sec.getBoundingClientRect();
+      const pad = 12;
+      return {
+        x: Math.max(0, Math.round(b.left + window.scrollX - pad)),
+        y: Math.max(0, Math.round(b.top + window.scrollY - pad)),
+        width: Math.round(b.width + pad * 2),
+        height: Math.round(b.height + pad * 2),
+      };
+    });
+    if (!clip || clip.width < 100) throw new Error("card not found for clip box");
+
     const shots = [];
     const shot = async () => {
       const file = path.join(framesDir, `d${String(shots.length).padStart(3, "0")}.png`);
-      // Fixed-viewport screenshots: every frame must share dimensions or the
-      // ffmpeg image2 sequence stops at the first size change (the card
-      // resizes during the morph).
-      await page.screenshot({ path: file });
+      await page.screenshot({ path: file, clip, captureBeyondViewport: true });
       shots.push(file);
     };
     const sleepShot = async (ms) => {
